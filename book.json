@@ -19,6 +19,10 @@
     }
   },
 
+  "structure": {
+     "readme": "./docs/README.md"
+  }
+
   "plugins" : [ "anchors" ],
 
   "pdf": {
